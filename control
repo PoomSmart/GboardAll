@@ -1,0 +1,9 @@
+Name: GboardAll
+Package: com.ps.gboardall
+Depends: firmware (>= 8.0), mobilesubstrate
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Allow unsupported emojis to show on Gboard keyboard.
