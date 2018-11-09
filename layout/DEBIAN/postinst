@@ -1,3 +1,4 @@
 #!/bin/bash
 
 killall -9 Gboard || true
+rm -rf /var/mobile/Containers/Shared/AppGroup/*/Emojis/*
