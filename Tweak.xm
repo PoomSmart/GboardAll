@@ -1,4 +1,4 @@
-#import <substrate.h>
+#import <Foundation/Foundation.h>
 
 %hook GKBEmojiDataManager
 
